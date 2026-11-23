@@ -11,8 +11,8 @@ Veriler **AFAD**'dan anlık çekilir. AFAD cevap vermezse **Kandilli Rasathanesi
 | Araç | Ne yapar | Örnek soru |
 |---|---|---|
 | `son_depremler` | En son depremleri listeler | "Son 10 depremi getir" |
-| `en_buyuk_depremler` | Son X günün en büyük depremleri | "Bu haftanın en büyük 5 depremi?" |
-| `sehir_depremleri` | Bir ildeki depremler | "Bingöl'de son bir ayda deprem oldu mu?" |
+| `en_buyuk_depremler` | Son X günün (en fazla 10) en büyük depremleri | "Bu haftanın en büyük 5 depremi?" |
+| `sehir_depremleri` | Bir ildeki depremler | "Bingöl'de son 10 günde deprem oldu mu?" |
 | `deprem_istatistigi` | Sayı, büyüklük dağılımı, en aktif yerler | "Son 7 günün deprem istatistiği" |
 
 ## Kullanılan teknolojiler
